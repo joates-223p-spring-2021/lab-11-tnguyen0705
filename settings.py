@@ -1,7 +1,7 @@
 """
 Tram Nguyen
 CPSC 223P-01
-Thu May 10, 2021
+Mon May 10, 2021
 tnguyen3006@csu.fullerton.edu
 """
 
